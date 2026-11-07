@@ -1,0 +1,58 @@
+
+Jeff Wayne's The War of the Worlds (1998): WoWRevived
+
+https://steamdb.info/tech/SDK/Smacker_Video/
+
+C:\Program Files (x86)\DreamWorks Interactive\SSoldier
+
+	Potential Test Candidates:
+
+Total Annihilation: Uses Smacker for its iconic intro and mission briefings.
+
+StarCraft (Classic): Heavily reliant on .smk files for unit portraits and cinematics.
+
+Diablo II (Classic): Famous for its high-quality Smacker cinematics.
+
+Fallout 1 & 2: Used Smacker for "Talking Heads" and intro movies.
+
+Baldur's Gate / Icewind Dale: Infinity Engine games used Smacker extensively.
+
+	"Orphaned" or Less-Modded Titles (High Potential for a Wrapper)
+Small Soldiers (1998): Another RAGE engine game—very high likelihood of working with your existing logic.
+
+Expendable (1999): A high-action shooter that used Smacker for transitions.
+
+Abomination: The Nemesis Project (1999): A real-time tactics game from Eidos.
+
+Gex: Enter the Gecko / Gex 3: The PC ports of these platformers used Smacker for the "TV" themed cutscenes.
+
+Constructor (1997): A quirky city builder with many FMV sequences.
+
+Shadowman (1999): The original PC release (pre-remaster).
+
+Requiem: Avenging Angel (1999): A unique FPS with biblically themed powers.
+
+	Popular Titles (Likely have rewrites, but good for reference)
+Myth: The Fallen Lords / Myth II: Used Smacker for its hand-drawn mission intros.
+
+Civilization II: Used it for the "High Council" videos and wonder movies.
+
+Thief: The Dark Project / Thief II: Used for the iconic hand-drawn cinematics.
+
+System Shock 2: Used for the introductory and ending movies.
+
+Jagged Alliance 2: Used for the laptop and news reports.
+
+Command & Conquer: Red Alert: Used Smacker for the briefings (before they moved to VQA/Bink).
+
+Fallout 1 & 2: Used for the "Talking Heads" and intro.
+
+Baldur's Gate 1 & 2: Used for area transitions and cutscenes.
+
+	FMV-Heavy Titles (Where a wrapper is most useful)
+
+Blade Runner (1997): (Recently got a ScummVM engine, but a wrapper could still be useful for the original EXE).
+
+The Longest Journey (1999): High-quality pre-rendered backgrounds and cinematics.
+
+Gabriel Knight 3: Used for the complex 3D-hybrid cutscenes.

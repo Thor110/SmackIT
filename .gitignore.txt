@@ -1,0 +1,7 @@
+*.user
+.vs
+bin
+Debug
+obj
+Release
+SmackerGames
